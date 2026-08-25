@@ -5,8 +5,7 @@
 ## Prototype link
 
 _The public Lovable share URL._
-_from group exercise during module 1 (20260817): Option A_
-https://juno-ai-insight.lovable.app 
+https://rocketship-clarity.lovable.app
 
 _____
 
