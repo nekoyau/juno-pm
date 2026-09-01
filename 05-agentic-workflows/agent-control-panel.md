@@ -9,7 +9,7 @@ Agent can draft a P0 strategic priority list. Agent CANNOT delete threads, auto-
 ## Controls
 
 - **Kill switch:** max_steps: 5. Abort if same tool fails 2x in a row. Hard timeout: 90s wall clock.
-- **Rate / cost caps:** usecase.retrieve to {chunks:[{text,source,score}], summary, confidence}. strategy.lookup_arr to {strategy_name, priority_num}.
+- **Rate / cost caps:** usecase.retrieve to {chunks:[{text,source,score}], summary, confidence}. strategy.lookup_arr to {strategy_id, strategy_name, priority_num}.
 - **Escalate-on-stuck:** After 3 failed retrievals, degrade to "cautious mode" (no priorities, just thread links). After 2 tool errors, escalate to PM with full trace.
 
 ## Monitoring
