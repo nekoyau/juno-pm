@@ -5,7 +5,8 @@
 ## Prototype link
 
 _The public Lovable share URL._
-https://rocketship-clarity.lovable.app
+https://juno-aipm-after-rag.lovable.app (after RAG)
+https://rocketship-clarity.lovable.app (initial)
 
 _____
 
