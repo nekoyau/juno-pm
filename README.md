@@ -71,8 +71,8 @@ This repo is my final project for the AI Product Management Certification — **
 
 ## Build Insights
 
-- **Friction point.** Retrieval quality was challenging — getting the correct business use cases mattered more than the model.
-- **Key learning.** Evals and guardrails can act like a human and save human effort to validate.
+- **Friction point.** learning-wise: Many new technical terminologies and concepts first time heard from this program, require more time to digest and review get understand more. I am frustrated if I should have more technical knowledge and get to know more tools to be a AI PM. Definitely will keep exploring. product-wise: Retrieval quality was challenging — getting the correct business use cases mattered more than the model. 
+- **Key learning.** was curious if human can fully/ mostly leave the work to AI, what-if the output is not as expected? Glad to know that human must set Evals and Guardrails which can act almost like a human to self-check and save human effort to validate. Though Human review is still critical over time to avoid model drifting. 
 - **Aha moment.** Probabilistic instead of deterministic; Human Oversight is still critical (good to know!)
 
 ---
